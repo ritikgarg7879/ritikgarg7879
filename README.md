@@ -5,11 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=ritikgarg7879&label=Profile%20views&color=0e75b6&style=flat" alt="ritikgarg7879" />
 </p>
 
-- 🔭 I’m currently working on **real-time Network Intrusion Detection System and Voice-Controlled Inspection App**
+- 🔭 I’m currently working on **frontend projects using React and JavaScript** to build responsive, interactive, and user-friendly web applications.
 
-- 🌱 I’m learning **Data Structures and Algorithms**, and exploring **Cloud Computing & Security**
+- 🌱 I’m learning **Data Structures and Algorithms**, and exploring **Machine learning**
 
-- 💬 Ask me about **JavaScript, React, C++, Node.js, Streamlit, and AWS**
+- 💬 Ask me about **JavaScript, React, C++, Node.js, Streamlit**
 
 - 📫 Reach me at: **gargritik855@gmail.com**
 
